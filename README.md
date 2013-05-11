@@ -10,7 +10,9 @@ $ npm install picemb -g
 
 ## Example
 
-## API
+```bash
+picemb input output
+```
 
 ## License
 

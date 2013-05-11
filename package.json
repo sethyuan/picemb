@@ -27,6 +27,7 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "nomnom": "latest"
+    "nomnom": "1.x",
+    "streamline": ">=0.4.9 <1.0"
   }
 }
