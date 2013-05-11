@@ -1,0 +1,32 @@
+{
+  "name": "picemb",
+  "version": "0.1.0",
+  "description": "Embed pictures into HTML in base64 encoding.",
+  "preferGlobal": true,
+  "bin": {
+    "picemb": "bin/picemb.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sethyuan/picemb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sethyuan/picemb/issues",
+    "email": "cavingdeep@gmail.com"
+  },
+  "keywords": [
+    "embed"
+  ],
+  "author": {
+    "name": "sethyuan",
+    "email": "cavingdeep@gmail.com"
+  },
+  "engines": {
+    "node": ">=0.8"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "nomnom": "latest"
+  }
+}
